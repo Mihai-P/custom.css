@@ -2189,3 +2189,11 @@ html {
 
 body a.continue-checkout.button_type_6.bg_light_color_4.f_size_large > i.fa { margin-right: 0px }
 body a.continue-shopping.button_type_6.bg_scheme_color.f_size_large > i.fa { margin-left: 0px }
+
+.vertical_list_type_7 li {
+    padding-top: 5px;
+}
+
+.rating li {
+    color: #FDE023;
+}
