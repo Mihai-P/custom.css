@@ -877,8 +877,8 @@ table.checkout select {
 }
 
 input:not([type="submit"]):not([type="checkbox"]):not([type="radio"])[disabled], input:not([type="submit"]):not([type="checkbox"]):not([type="radio"])[readonly], fieldset[disabled] input:not([type="submit"]):not([type="checkbox"]):not([type="radio"]) {
-    background-color: #919191;
-    color: #9DA4A4;
+    background-color: #D0D0D0;
+    color: black;
 }
 
 #register-form fieldset, form fieldset {
