@@ -2119,6 +2119,7 @@ html {
         overflow-y: scroll;
         border: 2px solid grey;
         min-width: 400px;
+        overflow-x: hidden;
     }
 
     #shopping_button a.button_type_3 {
