@@ -876,7 +876,7 @@ table.checkout select {
     height: 37px;
 }
 
-input[disabled], input[readonly], fieldset[disabled] input {
+input:not([type="submit"]):not([type="checkbox"]):not([type="radio"])[disabled], input:not([type="submit"]):not([type="checkbox"]):not([type="radio"])[readonly], fieldset[disabled] input:not([type="submit"]):not([type="checkbox"]):not([type="radio"]) {
     background-color: #FAFAFA;
 }
 
@@ -2047,6 +2047,13 @@ html {
     display: inline-block;
     width: 100%;
 }
+#shopping_button .shopping_cart {
+        overflow-y: scroll;
+        border: 2px solid grey;
+        min-width: 400px;
+        overflow-x: hidden;
+        padding: 5px;
+    }
 @media only screen and (max-width:480px){
 }
 @media only screen and (min-width: 768px) {
