@@ -2158,7 +2158,10 @@ html {
         width: 100%;
         padding-right: 0;
     }
-
+    .dropdown:hover .dropdown-menu {
+        display: block;
+    }
+    
     span.menu_divider {
         width: 12px;
         height: 12px;
