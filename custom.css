@@ -2158,7 +2158,7 @@ html {
         width: 100%;
         padding-right: 0;
     }
-    categories_nav_list > li:hover .dropdown-menu {
+    .categories_nav_list > li:hover .dropdown-menu {
         display: block;
     }
     
