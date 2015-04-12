@@ -2349,7 +2349,7 @@ body a.continue-shopping.button_type_6.bg_scheme_color.f_size_large > i.fa { mar
                     .thank-you-page-message .thank-you-page-continue-shopping-btn {
                         width: 179px;
                         height: 45px;
-                        background-image: url("../img/thank-you-page-continue-shopping-btn.gif");
+                        background-image: url("/storage/images/Misc/thank-you-page-social-media-btns.gif");
                         background-repeat: no-repeat;
                         display: inline-block;
                     }
@@ -2372,18 +2372,18 @@ body a.continue-shopping.button_type_6.bg_scheme_color.f_size_large > i.fa { mar
                     .thank-you-page-message .thank-you-page-social-buttons .btn-facebook {
                         width: 12px;
                         height: 25px;
-                        background-image: url("../img/thank-you-page-social-media-btns.png");
+                        background-image: url("/storage/images/Misc/thank-you-page-social-media-btns.png");
                     }
                     .thank-you-page-message .thank-you-page-social-buttons .btn-twitter {
                         width: 25px;
                         height: 25px;
-                        background-image: url("../img/thank-you-page-social-media-btns.png");
+                        background-image: url("/storage/images/Misc/thank-you-page-social-media-btns.png");
                         background-position: -32px 0;
                     }
                     .thank-you-page-message .thank-you-page-social-buttons .btn-google-plus {
                         width: 25px;
                         height: 25px;
-                        background-image: url("../img/thank-you-page-social-media-btns.png");
+                        background-image: url("/storage/images/Misc/thank-you-page-social-media-btns.png");
                         background-position: -77px 0;
                     }
                     .thank-you-page-message-image {
