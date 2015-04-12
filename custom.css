@@ -2215,3 +2215,189 @@ body a.continue-shopping.button_type_6.bg_scheme_color.f_size_large > i.fa { mar
 .rating li {
     color: #FDE023;
 }
+
+
+
+
+
+
+/*start JPM additions*/
+.thank-you-page-your-delivery-details {
+    max-width: 340px;
+    padding: 20px;
+    border: 2px solid #efefef;
+    border-radius: 5px;
+    margin-top: 40px;
+    position: relative;
+    background-color: #efefef;
+}
+
+                    .thank-you-page-your-delivery-details h2,
+                    .thank-you-page-your-items h2 {
+                        /*margin-bottom: 10px/14px;*/
+                        margin-bottom: 0.7142857142857143em;
+                        font-weight: 700;
+                        /*font-size: 19px/16px;*/
+                        font-size: 1.357142857142857em;
+                        color: #000000;
+                    }
+
+                    .thank-you-page-your-delivery-details dt {
+                        /*margin-top: 20px/14px;*/
+                        margin-top: 1.428571428571429em;
+                        margin-bottom: 1em;
+                        /*font-size: 16px/14px;*/
+                        font-size: 1.142857142857143em;
+                        font-weight: 500;
+                        color: #000000;
+                    }
+
+                    .thank-you-page-your-delivery-details dt.first {
+                        margin-top: 0;
+                    }
+
+                    .thank-you-page-your-delivery-details dd {
+                        /*font-size: 14px/14px;*/
+                        font-size: 1em;
+                        /*color: #000000;*/
+                    }
+
+.thank-you-page-your-items {
+    max-width: 340px;
+    padding: 20px 20px 15px 20px;
+    border-top: 2px solid #efefef;
+    border-right: 2px solid #efefef;
+    border-left: 2px solid #efefef;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    margin-top: 20px;
+    position: relative;
+}
+
+                    .thank-you-page-your-items .your-items-table {
+                        width: 100%;
+                    }
+
+                    .thank-you-page-your-items .your-item-row,
+                    .thank-you-page-your-items-total .your-item-row {
+                        width: 100%;
+                        overflow: hidden;
+                    }
+
+                    .thank-you-page-your-items .your-item-col,
+                    .thank-you-page-your-items-total .your-item-col,
+                    .thank-you-page-your-items .your-item-price-col,
+                    .thank-you-page-your-items-total .your-item-price-col {
+                        padding-bottom: 15px;
+                        float: left;
+                    }
+
+                    .thank-you-page-your-items .your-item-col,
+                    .thank-you-page-your-items-total .your-item-col {
+                        /*width: 244px;*/
+                        /*width: 244px/294px;*/
+                        width: 82.99319727891156%;
+                    }
+
+                    .thank-you-page-your-items .your-item-price-col,
+                    .thank-you-page-your-items-total .your-item-price-col {
+                        /*width: 50px;*/
+                        /*width: 50px/294px;*/
+                        width: 17.00680272108844%;
+                        text-align: right;
+                        font-weight: bold;
+                    }
+
+.thank-you-page-your-items-total {
+    max-width: 340px;
+    padding: 15px 20px 0;
+    border-top: 1px solid #efefef;
+    border-right: 2px solid #efefef;
+    border-bottom: 2px solid #efefef;
+    border-left: 2px solid #efefef;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    color: #31a246;
+}
+
+.thank-you-page-message {
+    margin-top: 40px;
+    position: relative;
+}
+
+                    .thank-you-page-message h2 {
+                        margin-bottom: 20px;
+                        font-weight: 700;
+                        color: #31a246;
+                    }
+
+                    .thank-you-page-message h3 {
+                        margin-bottom: 20px;
+                        color: #000000;
+                    }
+
+                    .thank-you-page-message p {
+                        margin-bottom: 20px;
+                        color: #000000;
+                    }
+
+                    .thank-you-page-message .call-to-action-buttons {
+                        margin-top: 30px;
+                        margin-bottom: 30px;
+                    }
+
+                    .thank-you-page-message .thank-you-page-continue-shopping-btn {
+                        width: 179px;
+                        height: 45px;
+                        background-image: url("../img/thank-you-page-continue-shopping-btn.gif");
+                        background-repeat: no-repeat;
+                        display: inline-block;
+                    }
+                    .thank-you-page-message .btn-label-hidden {
+                        position: absolute;
+                        top: -1000px;
+                    }
+                    .thank-you-page-message .thank-you-page-social-buttons {
+                        margin-left: 30px;
+                    }
+                    .thank-you-page-message .thank-you-page-social-buttons .btn-facebook,
+                    .thank-you-page-message .thank-you-page-social-buttons .btn-twitter,
+                    .thank-you-page-message .thank-you-page-social-buttons .btn-google-plus {
+                        line-height: 45px;
+                        margin-right: 20px;
+                        vertical-align: -20px;
+                        display: inline-block;
+                        background-repeat: no-repeat;
+                    }
+                    .thank-you-page-message .thank-you-page-social-buttons .btn-facebook {
+                        width: 12px;
+                        height: 25px;
+                        background-image: url("../img/thank-you-page-social-media-btns.png");
+                    }
+                    .thank-you-page-message .thank-you-page-social-buttons .btn-twitter {
+                        width: 25px;
+                        height: 25px;
+                        background-image: url("../img/thank-you-page-social-media-btns.png");
+                        background-position: -32px 0;
+                    }
+                    .thank-you-page-message .thank-you-page-social-buttons .btn-google-plus {
+                        width: 25px;
+                        height: 25px;
+                        background-image: url("../img/thank-you-page-social-media-btns.png");
+                        background-position: -77px 0;
+                    }
+                    .thank-you-page-message-image {
+                        width: 100%;
+                        max-width: 650px;
+                        height: auto;
+                    }
+
+@media screen and (max-width: 768px) {
+    .thank-you-page-your-delivery-details,
+    .thank-you-page-your-items,
+    .thank-you-page-your-items-total {
+        max-width: 100%;
+    }
+}
+/*end JPM additions*/
+
