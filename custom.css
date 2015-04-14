@@ -72,7 +72,7 @@
     text-decoration: line-through;
 }
 
-.product_item .features {
+.product_item .features:not(.big) {
     right: -5px;
     top: 0;
     width: 20px;
