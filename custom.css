@@ -2165,6 +2165,9 @@ html {
     .categories_nav_list > li:hover .dropdown-menu {
         display: block;
     }
+    .products_container .list-product-item {
+        width: 20%;
+    }
     
     span.menu_divider {
         width: 12px;
