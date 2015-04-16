@@ -1187,7 +1187,7 @@ table.checkout textarea {
     margin-left: 5px;
 }
 
-.product_details .rating fa:before {
+.product_details .rating .fa:before {
     font-size: 32px;
 }
 
