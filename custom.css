@@ -2171,6 +2171,9 @@ html {
     .categories_nav_list > li:hover .dropdown-menu {
         display: block;
     }
+    .categories_nav_list > li .dropdown-menu {
+        margin-top: 0px;
+    }
     .products_container .list-product-item {
         width: 20%;
     }
