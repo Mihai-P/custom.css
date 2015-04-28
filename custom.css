@@ -2248,6 +2248,17 @@ body a.continue-shopping.button_type_6.bg_scheme_color.f_size_large > i.fa { mar
 
 
 
+/* Our Farmers Page */
+.our-farmers-item {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.our-farmers-item h3 {
+    margin-bottom: 10px;
+    font-size: 14px;
+    font-weight: 600;
+    text-transform: uppercase;
+}
 
 
 /*start JPM additions*/
