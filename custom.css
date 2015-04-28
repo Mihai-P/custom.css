@@ -465,6 +465,11 @@
     clear: both;
 }
 
+.login_or_register {
+    font-weight: bold;
+    font-size: 16px;
+}
+
 @media (min-width: 768px) {
     .navbar-right .dropdown-menu {
         left: auto;
