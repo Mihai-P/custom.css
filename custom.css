@@ -466,8 +466,8 @@
 }
 
 .login_or_register {
-    font-weight: bold;
-    font-size: 16px;
+    font-weight: normal;
+    font-size: 24px;
 }
 
 @media (min-width: 768px) {
