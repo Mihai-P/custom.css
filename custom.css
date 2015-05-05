@@ -2200,13 +2200,13 @@ html {
     }
     header section.h_bot_part nav {
         padding: 0;
-        padding-left: 0;
+        padding-left: 5px;
     }    
     header section.h_mid_part div.row div.logo {
-        padding-left: 25px;
+        padding-left: 30px;
     }
     header section.h_top_part div.row div.top-account {
-        padding-left: 10px;
+        padding-left: 15px;
     }
 }
 @media only screen and (max-width: 1200px){
