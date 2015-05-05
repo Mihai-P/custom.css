@@ -533,7 +533,8 @@ header section.h_top_part p.f_size_medium a i.fa.fa-play {
 header section.h_top_part div.row form.search-form input#ProductKeyword {
     height: 30px;
     padding: 0;
-    background: #f5f7f8 url("/storage/images/Misc/search-background.png") no-repeat fixed center;
+    background: #FFFFFF url("/storage/images/Misc/search-background.png") no-repeat center left;
+    border: 0;
 }
 
 header section.h_bot_part .product_search input.search {
