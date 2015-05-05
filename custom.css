@@ -2198,6 +2198,16 @@ html {
     table.checkout .product_name img {
         display: none;
     }
+    header section.h_bot_part nav {
+        padding: 0;
+        padding-left: 0;
+    }    
+    header section.h_mid_part div.row div.logo {
+        padding-left: 25px;
+    }
+    header section.h_top_part div.row div.top-account {
+        padding-left: 10px;
+    }
 }
 @media only screen and (max-width: 1200px){
     .s_form_wrap {width: 100%}
