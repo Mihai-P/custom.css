@@ -516,7 +516,7 @@ a.login {
 }
 
 a.signup, a.my-account {
-    margin: 5px 30px;
+    margin: 5px 20px;
     text-transform: uppercase;
     white-space: nowrap;
 }
