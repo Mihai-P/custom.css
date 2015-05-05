@@ -567,7 +567,7 @@ header section.h_bot_part {
 }
 
 
-header section.h_bot_part .main_menu.type_2 > li > a {
+header section.h_bot_part ul.main_menu > li > a {
     color: white;
     /*padding: 9px 8px 10px;*/
     font-size: 13px;
