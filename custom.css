@@ -573,10 +573,7 @@ header section.h_bot_part ul.main_menu > li > a {
     font-size: 13px;
     text-decoration: none;
     height: 40px;
-}
-
-.main_menu.type_2 > li > a {
-    padding: 6px 15px 7px;
+    padding: 10px 15px;
 }
 
 .h_bot_part nav {
