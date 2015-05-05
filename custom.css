@@ -563,12 +563,7 @@ header section.h_mid_part div.row div.mid-info {
 }
 
 header section.h_bot_part {
-    height: 30px;
-}
-
-
-header section.h_bot_part .logo img {
-    padding-top: 15px;
+    height: 40px;
 }
 
 .product_search button.search_button {
