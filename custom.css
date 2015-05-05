@@ -530,7 +530,7 @@ a.signup, a.my-account:hover {
 header section.h_top_part p.f_size_medium a i.fa.fa-play {
     margin-right: 0;
 }
-header section.h_top_part form input {
+header section.h_top_part form.search-form input {
     height: 30px;
     padding: 0;
     background-image: url("/storage/images/Misc/search-background.png");
