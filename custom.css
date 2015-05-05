@@ -540,7 +540,8 @@ header section.h_top_part div.row form.search-form input#ProductKeyword {
 header section.h_top_part div.row div {
     height: 30px;
 }
-header section.h_top_part div.row div.top-phone {
+header section.h_top_part div.row div.top-phone, 
+header section.h_top_part div.row div.top-account {
     padding-top: 5px;
 }
 
