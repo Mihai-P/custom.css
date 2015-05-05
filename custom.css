@@ -2166,7 +2166,6 @@ header section.h_mid_part div.info-cart li.icons a {
     /* MY ACCOUNT LINK */
     .h_top_part .my-account {display: none;}
     /* MENU BUTTON */
-    #menu_button {position: absolute; padding: 4px 7px; width: 40px; top: -29px; left: -10px;}
     #menu_button > span {height: 2px; margin: 3px 0;}
     /* PHONE NUMBER */
     .h_top_part .phone-number {margin-left: -350px;}
