@@ -538,7 +538,7 @@ header section.h_top_part div.row form.search-form input#ProductKeyword {
     border: 0;
 }
 header section.h_mid_part {
-    height: 100px;
+    height: 120px;
 }
 
 header section.h_top_part div.row div {
@@ -548,7 +548,9 @@ header section.h_top_part div.row div.top-phone,
 header section.h_top_part div.row div.top-account {
     padding-top: 5px;
 }
-
+header section.h_top_part div.row div.top-account {
+    padding-left: 30px;
+}
 header section.h_bot_part .product_search input.search {
     height: 31px;
     padding: 3px 10px;
