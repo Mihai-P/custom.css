@@ -2208,6 +2208,9 @@ html {
     header section.h_top_part div.row div.top-account {
         padding-left: 15px;
     }
+    header section.h_bot_part ul.main_menu > li > a {
+        padding: 10px 6px;
+    }
 }
 @media only screen and (max-width: 1200px){
     .s_form_wrap {width: 100%}
