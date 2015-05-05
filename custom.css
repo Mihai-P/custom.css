@@ -566,11 +566,20 @@ header section.h_bot_part {
     height: 40px;
 }
 
+
+header section.h_bot_part .main_menu.type_2 > li > a {
+    color: white;
+    /*padding: 9px 8px 10px;*/
+    font-size: 13px;
+    text-decoration: none;
+    height: 40px;
+}
+
 .h_bot_part nav {
     width: 100%;
     background-color: #594C41;
     padding: 0;
-    height: 40px;
+    
 }
 
 .product_search button.search_button {
@@ -588,14 +597,6 @@ header section.h_bot_part {
     font-size: 1em;
 }
 
-
-
-.main_menu.type_2 > li > a {
-    color: white;
-    /*padding: 9px 8px 10px;*/
-    font-size: 13px;
-    text-decoration: none;
-}
 
 a, a:hover {
     text-decoration: none;
