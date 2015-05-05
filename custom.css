@@ -2161,7 +2161,7 @@ header section.h_mid_part div.info-cart li.icons a {
     ul.product_search button.search_button {padding: 3px 7px;}
     header section.h_bot_part .product_search input.search {height: 27px; border: 0}
     /* SHOPPING BUTTON */
-    #shopping_button a {padding: 3px 10px 2px;}
+    #shopping_button a {padding: 4px 10px 4px;}
     /* MY ACCOUNT LINK */
     .h_top_part .my-account {display: none;}
     /* MENU BUTTON */
