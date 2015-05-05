@@ -562,9 +562,8 @@ header section.h_mid_part div.row div.mid-info {
     padding-top: 14px;
 }
 
-header section.h_bot_part .product_search input.search {
-    height: 31px;
-    padding: 3px 10px;
+header section.h_bot_part {
+    height: 30px;
 }
 
 
