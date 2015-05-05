@@ -2105,6 +2105,7 @@ html {
     padding-left: 10px;
     color: #9e9e9e;
 }
+
 #shopping_button .shopping_cart {
         overflow-y: scroll;
         border: 2px solid grey;
@@ -2199,6 +2200,7 @@ html {
     #shopping_button a.button_type_3 .total {
         display: none;
     }
+
 }
 @media only screen and (max-width: 992px){
     table.checkout .product_name img {
@@ -2222,7 +2224,11 @@ html {
     }
     header section.h_mid_part {
         height: 90px;
-    }    
+    }
+    header section.h_mid_part div.info-cart a {
+        padding: 4px 10px 5px 5px;
+    }
+    
 }
 @media only screen and (max-width: 1200px){
     .s_form_wrap {width: 100%}
