@@ -537,6 +537,9 @@ header section.h_top_part div.row form.search-form input#ProductKeyword {
     background: #FFFFFF url("/storage/images/Misc/search-background.png") no-repeat center left;
     border: 0;
 }
+header section.h_top_part div.row div {
+    height: 30px;
+}
 
 header section.h_bot_part .product_search input.search {
     height: 31px;
