@@ -562,7 +562,7 @@ header section.h_mid_part div.row div.mid-info {
     padding-top: 14px;
 }
 
-header section.h_bot_part {
+header[role="banner"] section.h_bot_part {
     height: 40px;
 }
 
