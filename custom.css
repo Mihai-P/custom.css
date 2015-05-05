@@ -553,7 +553,12 @@ header section.h_mid_part {
     height: 120px;
 }
 header section.h_mid_part div.row div.logo {
-    padding-left: 30px;
+    padding-left: 45px;
+    padding-top: 20px;
+}
+
+header section.h_mid_part div.row div.mid-info {
+    padding-right: 15px;
     padding-top: 10px;
 }
 
