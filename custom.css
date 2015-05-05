@@ -525,6 +525,8 @@ a.signup, a.my-account:hover {
     text-decoration: none;
 }
 
+
+
 header section.h_top_part p.f_size_medium a i.fa.fa-play {
     margin-right: 0;
 }
@@ -540,7 +542,8 @@ header section.h_bot_part .logo img {
 
 header section.h_bot_part form input {
     height: 30px;
-    padding: 0;    
+    padding: 0;
+    background-image: url("/storage/images/Misc/search-background.png");
 }
 .product_search button.search_button {
     padding: 5px 7px;
