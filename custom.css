@@ -2134,11 +2134,6 @@ header section.h_mid_part div.info-cart li.icons a {
         max-width: 77px;
     }
 
-    header section.h_top_part div.row div.cart-container{
-        width: 0;
-        padding: 0;
-    }
-    
     /*table.checkout tr:first-child th:nth-child(4), table.checkout tr td.product_instructions {
         width: 35%;
     }*/
@@ -2185,6 +2180,11 @@ header section.h_mid_part div.info-cart li.icons a {
 }
 @media only screen and (min-width: 992px) {
 
+    header section.h_top_part div.row div.cart-container{
+        width: 0;
+        padding: 0;
+    }
+    
     #shopping_button {
         position: fixed;
         top: 0;
