@@ -2134,6 +2134,10 @@ header section.h_mid_part div.info-cart li.icons a {
         max-width: 77px;
     }
 
+    header section.h_top_part div.row div.top-account div.cart-container{
+        width: 0;
+    }
+    
     /*table.checkout tr:first-child th:nth-child(4), table.checkout tr td.product_instructions {
         width: 35%;
     }*/
@@ -2216,9 +2220,6 @@ header section.h_mid_part div.info-cart li.icons a {
     }
     header section.h_top_part div.row div.top-account {
         padding-left: 15px;
-    }
-    header section.h_top_part div.row div.top-account div.cart-container{
-        width: 0;
     }
     
     header section.h_mid_part div.row div.logo {
