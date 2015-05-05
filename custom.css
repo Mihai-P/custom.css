@@ -2136,6 +2136,7 @@ header section.h_mid_part div.info-cart li.icons a {
 
     header section.h_top_part div.row div.cart-container{
         width: 0;
+        padding: 0;
     }
     
     /*table.checkout tr:first-child th:nth-child(4), table.checkout tr td.product_instructions {
