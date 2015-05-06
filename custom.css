@@ -2219,6 +2219,9 @@ header section.h_mid_part div.info-cart li.icons a {
     .boxed_layout {
         width: 100%;
     }
+    .social_widgets {
+        display: none;
+    }
 
     #shopping_button a {padding: 4px 10px 4px;}
     table.checkout .product_name img {
