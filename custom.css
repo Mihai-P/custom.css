@@ -2173,6 +2173,10 @@ header section.h_mid_part div.info-cart li.icons a {
     .sub_menu_wrap {margin: 0; border: 0}
     .h_bot_part nav { background-color: #FFF; }
     .main_menu.type_2  li > a { color: black; border: 0; border-bottom: 1px solid grey; border-radius: 0;}
+    
+    .boxed_layout {
+        margin: 0;
+    }
 }
 @media only screen and (min-width: 992px) {
 
