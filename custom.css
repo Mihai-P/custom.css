@@ -2159,7 +2159,7 @@ header section.h_mid_part div.info-cart li.icons a {
     header section.h_bot_part .product_search input.search {height: 27px; border: 0}
     /* SHOPPING BUTTON */
     
-    .shop_icon {margin-right: 0;}
+    
     /* MY ACCOUNT LINK */
     .h_top_part .my-account {display: none;}
     /* MENU BUTTON */
@@ -2222,7 +2222,9 @@ header section.h_mid_part div.info-cart li.icons a {
     .social_widgets {
         display: none;
     }
-
+    
+    .shop_icon {margin-right: 0;}
+    
     #shopping_button a {padding: 4px 10px 4px;}
     table.checkout .product_name img {
         display: none;
