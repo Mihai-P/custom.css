@@ -2115,6 +2115,7 @@ header section.h_mid_part div.info-cart li.icons a {
         min-width: 400px;
         overflow-x: hidden;
         padding: 5px;
+        color: black;
     }
 @media only screen and (max-width:480px){
 }
