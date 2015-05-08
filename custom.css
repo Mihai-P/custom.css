@@ -626,7 +626,7 @@ a, a:hover {
             padding: 0;
         }
 
-.h_top_part a {
+.h_top_part div > div > a {
     color: white;
 }
 
