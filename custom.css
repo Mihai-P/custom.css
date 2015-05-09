@@ -2480,6 +2480,7 @@ body a.continue-shopping.button_type_6.bg_scheme_color.f_size_large > i.fa { mar
                     .thank-you-page-message .btn-google-plus {
                         line-height: 45px;
                         margin-right: 20px;
+                        margin-left: 20px;
                         vertical-align: -20px;
                         display: inline-block;
                         background-repeat: no-repeat;
