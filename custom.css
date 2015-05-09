@@ -2475,30 +2475,27 @@ body a.continue-shopping.button_type_6.bg_scheme_color.f_size_large > i.fa { mar
                         position: absolute;
                         top: -1000px;
                     }
-                    .thank-you-page-message .thank-you-page-social-buttons {
-                        margin-left: 30px;
-                    }
-                    .thank-you-page-message .thank-you-page-social-buttons .btn-facebook,
-                    .thank-you-page-message .thank-you-page-social-buttons .btn-twitter,
-                    .thank-you-page-message .thank-you-page-social-buttons .btn-google-plus {
+                    .thank-you-page-message .btn-facebook,
+                    .thank-you-page-message .btn-twitter,
+                    .thank-you-page-message .btn-google-plus {
                         line-height: 45px;
                         margin-right: 20px;
                         vertical-align: -20px;
                         display: inline-block;
                         background-repeat: no-repeat;
                     }
-                    .thank-you-page-message .thank-you-page-social-buttons .btn-facebook {
+                    .thank-you-page-message .btn-facebook {
                         width: 12px;
                         height: 25px;
                         background-image: url("/storage/images/Misc/thank-you-page-social-media-btns.png");
                     }
-                    .thank-you-page-message .thank-you-page-social-buttons .btn-twitter {
+                    .thank-you-page-message .btn-twitter {
                         width: 25px;
                         height: 25px;
                         background-image: url("/storage/images/Misc/thank-you-page-social-media-btns.png");
                         background-position: -32px 0;
                     }
-                    .thank-you-page-message .thank-you-page-social-buttons .btn-google-plus {
+                    .thank-you-page-message .btn-google-plus {
                         width: 25px;
                         height: 25px;
                         background-image: url("/storage/images/Misc/thank-you-page-social-media-btns.png");
