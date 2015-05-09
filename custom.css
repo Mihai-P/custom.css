@@ -2117,6 +2117,9 @@ header section.h_mid_part div.info-cart li.icons a {
         padding: 5px;
         color: #696e6e;
     }
+#shopping_button .shopping_cart .bg-warning, #shopping_button .shopping_cart .bg-success {
+    padding: 5px;
+}
    
 @media only screen and (max-width:480px){
 }
