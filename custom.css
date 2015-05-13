@@ -2247,13 +2247,12 @@ header section.h_mid_part div.info-cart li.icons a {
     header section.h_mid_part {
         height: 90px;
     }
-    /*header section.h_mid_part div.row div.mid-info {
-        padding: 0;
-        padding-right: 5px;
+    header section.h_mid_part div.row div.mid-info {
+        padding-top: 0;
     }
     #menu_button {
         width: 100%;
-    }*/
+    }
     header section.h_mid_part div.info-cart a {
         padding: 0;
     }
