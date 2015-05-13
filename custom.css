@@ -2241,6 +2241,7 @@ header section.h_mid_part div.info-cart li.icons a {
     }
     
     header section.h_mid_part div.row div.logo {
+        padding-top: 5px;
         padding-left: 30px;
     }
     header section.h_mid_part div.row div.logo img {
