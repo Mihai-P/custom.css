@@ -2524,7 +2524,7 @@ body a.continue-shopping.button_type_6.bg_scheme_color.f_size_large > i.fa { mar
     /* MY ACCOUNT LINK */
     .h_top_part .my-account {display: none;}
     /* MENU BUTTON */
-    #menu_button > span {height: 4px; margin: 3px 0;}
+    #menu_button > span {height: 4px; margin: 5px auto; width: 50%;}
     /* PHONE NUMBER */
     .h_top_part .phone-number {margin-left: -350px;}
     /* REMOVING SOME EXTRA SPACES */
