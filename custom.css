@@ -2510,6 +2510,9 @@ body a.continue-shopping.button_type_6.bg_scheme_color.f_size_large > i.fa { mar
     header[role="banner"].type_5 section.h_bot_part {
         height: 1px;
     }
+    #menu_button {
+        height: 70px;
+    }
     /* TOP SEARCH */
     ul.product_search li {display: none;}
     //ul.product_search li:first-child {display: block; position: absolute; top: -29px; right: 142px; margin-top: 0}
