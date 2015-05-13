@@ -2157,6 +2157,10 @@ header section.h_mid_part div.info-cart li.icons a {
         display: none;
     }
     
+    header section.h_mid_part div.row div.logo {
+        padding-top: 5px;
+    }
+    
     /* TOP SEARCH */
     ul.product_search li {display: none;}
     //ul.product_search li:first-child {display: block; position: absolute; top: -29px; right: 142px; margin-top: 0}
@@ -2241,7 +2245,6 @@ header section.h_mid_part div.info-cart li.icons a {
     }
     
     header section.h_mid_part div.row div.logo {
-        padding-top: 5px;
         padding-left: 30px;
     }
     header section.h_mid_part div.row div.logo img {
