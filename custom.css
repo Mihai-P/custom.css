@@ -2251,6 +2251,9 @@ header section.h_mid_part div.info-cart li.icons a {
         padding-right: 0;
         padding-top: 0;
     }
+    #menu_button {
+        width: 100%;
+    }
     header section.h_mid_part div.info-cart a {
         padding: 0;
     }
