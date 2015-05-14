@@ -643,7 +643,7 @@ a, a:hover {
     font-weight: bold;
 }
 
-.widget figcaption figcaption {
+.widget figure figcaption {
     background: transparent;
 }
 .widget figcaption h3 {
