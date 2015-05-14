@@ -643,6 +643,9 @@ a, a:hover {
     font-weight: bold;
 }
 
+.widget figcaption figcaption {
+    background: transparent;
+}
 .widget figcaption h3 {
     font-size: 1.2em;
 }
