@@ -2520,7 +2520,7 @@ body a.continue-shopping.button_type_6.bg_scheme_color.f_size_large > i.fa { mar
     header section.h_bot_part ul.main_menu > li > a {
         background: #594D41;   
     }    
-    .main_menu li ul.sub_menu > li > a {
+    .main_menu > li > div > ul.sub_menu > li > a {
         font-weight: bold;
     }
     /* TOP SEARCH */
