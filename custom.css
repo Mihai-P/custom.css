@@ -2392,9 +2392,6 @@ body a.continue-shopping.button_type_6.bg_scheme_color.f_size_large > i.fa { mar
         right: 0;
         width: 40px;
     }
-    #menu_button {
-        background: #594D41;
-    }
 
     #shopping_button .shopping_cart {
         max-height: 500px;
@@ -2518,6 +2515,7 @@ body a.continue-shopping.button_type_6.bg_scheme_color.f_size_large > i.fa { mar
     }
     #menu_button {
         height: 70px;
+        background: #594D41;
     }
     /* TOP SEARCH */
     ul.product_search li {display: none;}
