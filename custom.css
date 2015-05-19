@@ -2480,6 +2480,9 @@ body a.continue-shopping.button_type_6.bg_scheme_color.f_size_large > i.fa { mar
     .categories_nav_list li span img {
         height: 49px;
     }    
+    categories_nav_list .photoframe {
+        font-size: 0.8em;
+    }
     table.checkout tr:first-child th:nth-child(3), table.checkout tr td.product_frequency {
         width: 77px;
         min-width: 77px;
