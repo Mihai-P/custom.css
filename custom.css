@@ -2345,7 +2345,7 @@ body a.continue-shopping.button_type_6.bg_scheme_color.f_size_large > i.fa { mar
     .categories_nav_list > li {
         height: 81px;
     }
-    .categories_nav_list > li > a {
+    .categories_nav_list > li > button {
         height: 76px;
     }
     .categories_nav_list > li .dropdown-menu {
