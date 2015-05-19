@@ -2342,6 +2342,9 @@ body a.continue-shopping.button_type_6.bg_scheme_color.f_size_large > i.fa { mar
     .categories_nav_list > li:hover .dropdown-menu {
         display: block;
     }
+    .categories_nav_list > li > a {
+        height: 76px;
+    }
     .categories_nav_list > li .dropdown-menu {
         margin-top: 0px;
     }
