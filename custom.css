@@ -2429,6 +2429,13 @@ body a.continue-shopping.button_type_6.bg_scheme_color.f_size_large > i.fa { mar
     .info-cart {
         display: none;
     }
+    .categories_nav_list li span img {
+        height: 49px;
+    }    
+    categories_nav_list .photoframe {
+        font-size: 0.8em;
+    }
+    
     .shop_icon {margin-right: 0;}
     
     #shopping_button a {padding: 4px 10px 4px;}
@@ -2477,12 +2484,7 @@ body a.continue-shopping.button_type_6.bg_scheme_color.f_size_large > i.fa { mar
         min-width: 60px;
         text-align: center;
     }
-    .categories_nav_list li span img {
-        height: 49px;
-    }    
-    categories_nav_list .photoframe {
-        font-size: 0.8em;
-    }
+    
     table.checkout tr:first-child th:nth-child(3), table.checkout tr td.product_frequency {
         width: 77px;
         min-width: 77px;
