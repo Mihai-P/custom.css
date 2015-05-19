@@ -2343,10 +2343,10 @@ body a.continue-shopping.button_type_6.bg_scheme_color.f_size_large > i.fa { mar
         display: block;
     }
     .categories_nav_list > li {
-        height: 81px;
+        height: 101px;
     }
     .categories_nav_list > li > button {
-        height: 76px;
+        height: 97px;
     }
     .categories_nav_list > li .dropdown-menu {
         margin-top: 0px;
