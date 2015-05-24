@@ -2425,6 +2425,9 @@ body a.continue-shopping.button_type_6.bg_scheme_color.f_size_large > i.fa { mar
     .boxed_layout {
         width: 100%;
     }
+    .photoframe {
+        border: 10px 0;
+    }
     .social_widgets {
         display: none;
     }
