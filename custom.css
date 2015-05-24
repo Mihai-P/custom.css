@@ -1232,10 +1232,10 @@ table.checkout textarea {
 }
 
 .big-rating .rating .fa:before {
-    font-size: 32px;
+    font-size: 24px;
 }
 .big-rating {
-    font-size: 20px;   
+    font-size: 16px;   
 }
 
 table.checkout .product_name img {
@@ -2135,7 +2135,9 @@ body a.continue-shopping.button_type_6.bg_scheme_color.f_size_large > i.fa { mar
     color: #FDE023;
 }
 
-
+.modal-body .product_item {
+    width: 100%;
+}
 
 
 /* Our Farmers Page */
