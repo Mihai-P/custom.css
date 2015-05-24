@@ -2335,7 +2335,8 @@ body a.continue-shopping.button_type_6.bg_scheme_color.f_size_large > i.fa { mar
     .s_form_wrap {width: 100%}
     [role="banner"].type_5 .h_bot_part .menu_wrap .site_settings.f_right {margin-right: 5px;}
     .h_top_part .phone-number {margin-right: 36px;}
-    
+}
+@media only screen and (min-width: 1200px) {
     input[type=number]::-webkit-outer-spin-button,
     input[type=number]::-webkit-inner-spin-button {
         -webkit-appearance: none;
@@ -2343,10 +2344,9 @@ body a.continue-shopping.button_type_6.bg_scheme_color.f_size_large > i.fa { mar
     }
 
     input[type=number] {
-        -moz-appearance:textfield;
+        -moz-appearance: textfield;
     }
-}
-@media only screen and (min-width: 1200px) {
+
     .h_bot_part .container {
         width: 100%;
         padding-right: 0;
